@@ -1,6 +1,6 @@
 <img align="right" width="30%" src="https://github.com/Minh-Ton/RetroAppStore/raw/master/AppStore.png">
 
-# RetroAppStore
+# RetroAppStore 
 
 macOS Mojave 10.14 comes with a brand-new redesigned App Store. While some people loves it, others dislike the latest design of the Mac App Store. RetroAppStore is what you need. It patches the High Sierra Mac App Store to make it compatible with macOS Mojave and later, and you can use it as the default App Store for downloading apps and games.
 
