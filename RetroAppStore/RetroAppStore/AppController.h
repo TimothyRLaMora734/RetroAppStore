@@ -13,7 +13,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface AppController : NSObject {
-@private
+@private 
     IBOutlet NSTextField *progresslabel;
     IBOutlet NSProgressIndicator *progressBar;
     IBOutlet NSButton *continuebutton;
