@@ -17,6 +17,10 @@ macOS Mojave 10.14 comes with a brand-new redesigned App Store. While some peopl
 
 After running the app, there will be an app called "HS App Store" in your Applications folder (`/Applications`).
 
+## Screenshot
+
+<img src="https://github.com/Minh-Ton/RetroAppStore/raw/master/Screenshots/screenshot1.png">
+
 ## License
 
 - This project is licensed under GPL-3.0 License.
