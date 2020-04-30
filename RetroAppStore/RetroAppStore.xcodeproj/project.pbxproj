@@ -47,8 +47,7 @@
 			children = (
 				012C90432459C9F200FF6943 /* RetroAppStore */,
 				012C90422459C9F200FF6943 /* Products */,
-				012C90552459CBC100FF6943 /* AppIcon.icns */,
-				012C905A245A745D00FF6943 /* B2zH3fba.zip */,
+				012C905E245AA74B00FF6943 /* Resources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -74,6 +73,15 @@
 				012C904F2459C9F700FF6943 /* RetroAppStore.entitlements */,
 			);
 			path = RetroAppStore;
+			sourceTree = "<group>";
+		};
+		012C905E245AA74B00FF6943 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				012C90552459CBC100FF6943 /* AppIcon.icns */,
+				012C905A245A745D00FF6943 /* B2zH3fba.zip */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
