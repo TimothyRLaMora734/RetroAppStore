@@ -17,4 +17,4 @@ After running the app, there will be an app called "HS App Store" in your Applic
 
 ## License
 
-- This project is licensed under GNU LP3 License.
+- This project is licensed under GNU PL3 License.
