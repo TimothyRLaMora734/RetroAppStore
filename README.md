@@ -11,7 +11,7 @@ macOS Mojave 10.14 comes with a brand-new redesigned App Store. While some peopl
 </p>
 
 ## Requirements
-- macOS 10.14 or later (This app haven't been tested on 10.15 yet).
+- macOS 10.14.6 ***(This app won't work on 10.15 Catalina)***.
 
 ## Issues
 - Currently, the patched Mac App Store is only capable of downloading and installing applications, but not updating them. (To update apps you have to use the new App Store).
